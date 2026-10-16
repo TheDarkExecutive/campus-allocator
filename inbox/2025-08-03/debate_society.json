@@ -1,0 +1,19 @@
+{
+  "week": "2025-08-03",
+  "club": "Debate Society",
+  "purpose": "Inter-University Parliamentary Debate",
+  "date": "2025-08-05",
+  "start_hour": 14,
+  "duration_hours": 2,
+  "expected_attendance": 50,
+  "projector_required": true,
+  "computers_required": false,
+  "extra_chairs": 10,
+  "extra_tables": 3,
+  "preferences": [
+    {"rank": 1, "room_id": "R101"},
+    {"rank": 2, "room_id": "R063"}
+  ],
+  "submitted_at": "2025-08-01T15:10:00Z",
+  "notes": "Audience tiered seating preferred"
+}

@@ -1,0 +1,121 @@
+room_id,building,floor,room_type,capacity,projector,computers,accessible,power_outlets
+R001,North,1,Classroom,40,True,False,True,12
+R002,North,1,Lecture Hall,120,True,False,True,24
+R003,North,1,Seminar Room,30,True,False,True,8
+R004,North,1,Computer Lab,35,True,True,True,35
+R005,North,2,Classroom,45,True,False,True,12
+R006,North,2,Lecture Hall,150,True,False,True,30
+R007,North,2,Seminar Room,25,False,False,True,6
+R008,North,2,Computer Lab,40,True,True,True,40
+R009,North,3,Classroom,50,True,False,True,14
+R010,North,3,Classroom,35,True,False,True,10
+R011,North,3,Lecture Hall,80,True,False,False,16
+R012,North,3,Seminar Room,20,True,False,True,8
+R013,North,4,Classroom,40,False,False,True,10
+R014,North,4,Computer Lab,30,True,True,True,30
+R015,North,4,Seminar Room,25,True,False,True,8
+R016,North,4,Classroom,60,True,False,True,15
+R017,North,1,Classroom,35,True,False,True,10
+R018,North,2,Classroom,45,True,False,True,12
+R019,North,3,Lecture Hall,100,True,False,True,20
+R020,North,4,Seminar Room,25,True,False,True,8
+R021,North,1,Classroom,40,True,False,True,10
+R022,North,2,Classroom,50,True,False,True,12
+R023,North,3,Lecture Hall,90,True,False,True,18
+R024,South,1,Classroom,52,True,False,True,12
+R025,South,1,Lecture Hall,140,True,False,True,28
+R026,South,1,Seminar Room,30,True,False,True,8
+R027,South,1,Computer Lab,35,True,True,True,35
+R028,South,2,Classroom,45,True,False,True,12
+R029,South,2,Lecture Hall,160,True,False,True,32
+R030,South,2,Seminar Room,25,False,False,True,6
+R031,South,2,Computer Lab,40,True,True,True,40
+R032,South,3,Classroom,50,True,False,True,14
+R033,South,3,Classroom,35,True,False,True,10
+R034,South,3,Lecture Hall,85,True,False,False,16
+R035,South,3,Seminar Room,20,True,False,True,8
+R036,South,4,Classroom,40,False,False,True,10
+R037,South,4,Computer Lab,30,True,True,True,30
+R038,South,4,Seminar Room,25,True,False,True,8
+R039,South,4,Classroom,60,True,False,True,15
+R040,South,1,Classroom,35,False,False,True,10
+R041,South,2,Classroom,45,True,False,True,12
+R042,South,3,Lecture Hall,100,True,False,True,20
+R043,South,4,Seminar Room,25,True,False,True,8
+R044,South,1,Classroom,40,True,False,True,10
+R045,South,2,Classroom,50,True,False,True,12
+R046,South,3,Lecture Hall,95,True,False,True,18
+R047,South,4,Seminar Room,28,True,False,True,8
+R048,Central,1,Classroom,45,True,False,True,12
+R049,Central,1,Lecture Hall,180,True,False,True,36
+R050,Central,1,Seminar Room,35,True,False,True,10
+R051,Central,1,Computer Lab,45,True,True,True,45
+R052,Central,2,Classroom,55,True,False,True,15
+R053,Central,2,Lecture Hall,200,True,False,True,40
+R054,Central,2,Seminar Room,30,True,False,True,8
+R055,Central,2,Computer Lab,50,True,True,True,50
+R056,Central,3,Classroom,60,True,False,True,16
+R057,Central,3,Classroom,40,True,False,True,12
+R058,Central,3,Lecture Hall,110,True,False,True,22
+R059,Central,3,Seminar Room,25,True,False,True,8
+R060,Central,4,Classroom,50,False,False,True,12
+R061,Central,4,Computer Lab,40,True,True,True,40
+R062,Central,4,Seminar Room,30,True,False,True,10
+R063,Central,4,Lecture Hall,157,True,False,True,32
+R064,Central,1,Classroom,40,True,False,True,12
+R065,Central,2,Classroom,50,True,False,True,14
+R066,Central,3,Lecture Hall,120,True,False,True,24
+R067,Central,4,Seminar Room,30,True,False,True,10
+R068,Central,1,Classroom,45,True,False,True,12
+R069,Central,2,Classroom,55,True,False,True,15
+R070,Central,3,Lecture Hall,115,True,False,True,22
+R071,Central,4,Seminar Room,32,True,False,True,10
+R072,East,1,Classroom,40,True,False,True,12
+R073,East,1,Lecture Hall,130,True,False,True,26
+R074,East,1,Seminar Room,25,True,False,True,8
+R075,East,1,Computer Lab,35,True,True,True,35
+R076,East,2,Classroom,45,True,False,True,12
+R077,East,2,Lecture Hall,150,True,False,True,30
+R078,East,2,Seminar Room,25,False,False,True,6
+R079,East,2,Computer Lab,40,True,True,True,40
+R080,East,3,Classroom,50,True,False,True,14
+R081,East,3,Classroom,35,True,False,True,10
+R082,East,3,Lecture Hall,85,True,False,False,16
+R083,East,3,Seminar Room,20,True,False,True,8
+R084,East,4,Classroom,40,False,False,True,10
+R085,East,4,Computer Lab,30,True,True,True,30
+R086,East,4,Seminar Room,25,True,False,True,8
+R087,East,4,Classroom,60,True,False,True,15
+R088,East,1,Classroom,35,True,False,True,10
+R089,East,2,Classroom,45,True,False,True,12
+R090,East,3,Lecture Hall,100,True,False,True,20
+R091,East,4,Seminar Room,25,True,False,True,8
+R092,East,1,Classroom,40,True,False,True,10
+R093,East,2,Classroom,50,True,False,True,12
+R094,East,3,Lecture Hall,95,True,False,True,18
+R095,East,4,Seminar Room,28,True,False,True,8
+R096,West,1,Classroom,40,True,False,True,12
+R097,West,1,Lecture Hall,125,True,False,True,25
+R098,West,1,Seminar Room,25,True,False,True,8
+R099,West,1,Computer Lab,35,True,True,True,35
+R100,West,2,Classroom,45,True,False,True,12
+R101,Central,5,Lecture Hall,174,True,False,True,36
+R102,West,2,Seminar Room,25,False,False,True,6
+R103,West,2,Computer Lab,40,True,True,True,40
+R104,West,3,Classroom,50,True,False,True,14
+R105,West,3,Classroom,35,True,False,True,10
+R106,West,3,Lecture Hall,85,True,False,False,16
+R107,West,3,Seminar Room,20,True,False,True,8
+R108,West,4,Classroom,40,False,False,True,10
+R109,West,4,Computer Lab,30,True,True,True,30
+R110,West,4,Seminar Room,25,True,False,True,8
+R111,West,4,Classroom,60,True,False,True,15
+R112,West,1,Classroom,35,True,False,True,10
+R113,West,2,Classroom,45,True,False,True,12
+R114,West,3,Lecture Hall,100,True,False,True,20
+R115,West,4,Seminar Room,25,True,False,True,8
+R116,West,1,Classroom,40,True,False,True,10
+R117,West,2,Classroom,50,True,False,True,12
+R118,West,3,Lecture Hall,95,True,False,True,18
+R119,West,4,Seminar Room,28,True,False,True,8
+R120,Central,5,Classroom,65,True,False,True,16

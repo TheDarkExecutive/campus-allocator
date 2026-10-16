@@ -1,0 +1,21 @@
+{
+  "week": "2025-08-03",
+  "club": "Robotics Club",
+  "purpose": "Secondary Executive Committee Sync",
+  "date": "2025-08-06",
+  "start_hour": 17,
+  "duration_hours": 1,
+  "expected_attendance": 12,
+  "projector_required": false,
+  "computers_required": false,
+  "extra_chairs": 0,
+  "extra_tables": 0,
+  "preferences": [
+    {
+      "rank": 1,
+      "room_id": "R020"
+    }
+  ],
+  "submitted_at": "2025-08-02T10:00:00Z",
+  "notes": "Second request in same week; subject to club quota"
+}

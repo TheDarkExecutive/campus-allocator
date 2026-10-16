@@ -1,0 +1,19 @@
+{
+  "week": "2025-08-03",
+  "club": "AI Society",
+  "purpose": "Deep Learning Tutorial",
+  "date": "2025-08-05",
+  "start_hour": 13,
+  "duration_hours": 2,
+  "expected_attendance": 35,
+  "projector_required": true,
+  "computers_required": true,
+  "extra_chairs": 0,
+  "extra_tables": 0,
+  "preferences": [
+    {"rank": 1, "room_id": "R004"},
+    {"rank": 2, "room_id": "R008"}
+  ],
+  "submitted_at": "2025-08-01T16:00:00Z",
+  "notes": "Workstation PCs required for Jupyter Lab demo"
+}

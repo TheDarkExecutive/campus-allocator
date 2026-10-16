@@ -1,0 +1,20 @@
+{
+  "week": "2025-08-03",
+  "club": "Robotics Club",
+  "purpose": "Annual Hackathon Workshop",
+  "date": "2025-08-05",
+  "start_hour": 13,
+  "duration_hours": 2,
+  "expected_attendance": 40,
+  "projector_required": true,
+  "computers_required": false,
+  "extra_chairs": 6,
+  "extra_tables": 2,
+  "preferences": [
+    {"rank": 1, "room_id": "R063"},
+    {"rank": 2, "room_id": "R101"},
+    {"rank": 3, "room_id": "R024"}
+  ],
+  "submitted_at": "2025-08-01T14:22:00Z",
+  "notes": "Need space for robot demonstration field"
+}

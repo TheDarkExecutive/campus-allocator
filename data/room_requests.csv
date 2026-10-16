@@ -1,0 +1,21 @@
+request_id,request_date,start_hour,duration_hours,required_capacity,projector_required,computers_required,purpose,status
+HIST-0001,2025-08-04,10,2,30,True,False,Club meeting,Approved
+HIST-0002,2025-08-04,11,2,40,True,False,Guest lecture,Approved
+HIST-0003,2025-08-04,14,2,35,True,True,Workshop,Approved
+HIST-0004,2025-08-04,9,2,250,True,False,Conference,Rejected
+HIST-0005,2025-08-05,10,2,50,True,False,Review session,Approved
+HIST-0006,2025-08-05,13,2,40,True,False,Hackathon,Approved
+HIST-0007,2025-08-05,14,2,45,True,False,Debate,Approved
+HIST-0008,2025-08-05,15,2,30,True,True,Lab demo,Approved
+HIST-0009,2025-08-06,10,2,30,False,False,Study group,Approved
+HIST-0010,2025-08-06,14,2,220,True,False,Townhall,Rejected
+HIST-0011,2025-08-07,11,2,45,True,False,Club meeting,Approved
+HIST-0012,2025-08-07,14,2,35,True,False,Guest lecture,Approved
+HIST-0013,2025-08-07,16,2,40,True,False,Review session,Approved
+HIST-0014,2025-08-08,10,2,30,True,False,Club meeting,Approved
+HIST-0015,2025-08-08,14,2,50,True,False,Workshop,Approved
+HIST-0016,2025-08-08,15,2,280,True,False,Summit,Rejected
+HIST-0017,2025-08-09,10,2,25,False,False,Study group,Approved
+HIST-0018,2025-08-09,11,2,35,True,False,Club sync,Approved
+HIST-0019,2025-08-09,14,2,40,True,False,Seminar,Approved
+HIST-0020,2025-08-09,16,2,30,True,False,Club meeting,Approved
