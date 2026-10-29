@@ -253,5 +253,5 @@ Tests cover:
 ## 👥 Credits & Authors
 
 Built with ♥ by **Joash Biji** ([@TheDarkExecutive](https://github.com/TheDarkExecutive))  
-*VIT-AP University · Student Council & Data Science Club*  
+*VIT-AP University · Built for Datathon - Data Science Club*  
 Special thanks to the open-source community behind `ratatui` and `binsider` for the UI inspiration.
